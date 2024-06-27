@@ -5,3 +5,6 @@
 [submodule "WebGestaltR"]
 	path = WebGestaltR
 	url = https://github.com/bzhanglab/webgestaltr
+[submodule "clinicalomicsdbR"]
+	path = clinicalomicsdbR
+	url = https://github.com/bzhanglab/clinicalomicsdbr
